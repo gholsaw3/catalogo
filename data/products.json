@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nombre": "Manzana",
+      "precio": 35,
+      "unidad": "kg"
+    },
+    {
+      "id": 2,
+      "nombre": "Caja de Mango",
+      "precio": 250,
+      "unidad": "caja"
+    },
+    {
+      "id": 3,
+      "nombre": "Aguacate",
+      "precio": 45,
+      "unidad": "kg"
+    },
+    {
+      "id": 4,
+      "nombre": "Papas",
+      "precio": 23,
+      "unidad": "kg"
+    }
+  ]
+}
