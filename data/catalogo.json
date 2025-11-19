@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Manzanas",
+    "precio": 30,
+    "unidad": "kg"
+  },
+  {
+    "nombre": "Plátanos",
+    "precio": 22,
+    "unidad": "kg"
+  },
+  {
+    "nombre": "Aguacate",
+    "precio": 48,
+    "unidad": "pieza"
+  }
+]
